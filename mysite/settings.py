@@ -26,7 +26,7 @@ SECRET_KEY = 'pmz4bi@(4)j#i3fa+)w!km2du-%ub*61oy!7c!r=rhlq_52be3'
 DEBUG = True
 
 # 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ulan.pythonanywhere.com']
 
 
 # Application definition
